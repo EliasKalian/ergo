@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: 7f7459c78c9f048438879c8226da282b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3070035814993841186
+    second: Sprite sheet Luna jump_0
+  - first:
+      213: -1788879696014532867
+    second: Sprite sheet Luna jump_1
+  - first:
+      213: -8169178055826941270
+    second: Sprite sheet Luna jump_2
+  - first:
+      213: -6395976059185795791
+    second: Sprite sheet Luna jump_3
+  - first:
+      213: -4684274818589814297
+    second: Sprite sheet Luna jump_4
+  - first:
+      213: -1957423838836848866
+    second: Sprite sheet Luna jump_5
+  - first:
+      213: -5968575495519649055
+    second: Sprite sheet Luna jump_6
+  - first:
+      213: 3669178590488128889
+    second: Sprite sheet Luna jump_7
+  - first:
+      213: 87085731210327806
+    second: Sprite sheet Luna jump_8
+  - first:
+      213: -7063265984162899582
+    second: Sprite sheet Luna jump_9
+  - first:
+      213: 2880474906414334445
+    second: Sprite sheet Luna jump_10
+  - first:
+      213: -6693974845654190759
+    second: Sprite sheet Luna jump_11
+  - first:
+      213: -378998270895573746
+    second: Sprite sheet Luna jump_12
+  - first:
+      213: -3116103982327442728
+    second: Sprite sheet Luna jump_13
+  - first:
+      213: -1243380351416429031
+    second: Sprite sheet Luna jump_14
+  - first:
+      213: 4167423177447649065
+    second: Sprite sheet Luna jump_15
+  - first:
+      213: 4055843761173458624
+    second: Sprite sheet Luna jump_16
+  - first:
+      213: 2004310385636816005
+    second: Sprite sheet Luna jump_17
+  - first:
+      213: 7433708891822962512
+    second: Sprite sheet Luna jump_18
+  - first:
+      213: -9168647849251241540
+    second: Sprite sheet Luna jump_19
+  - first:
+      213: -1385738895216632867
+    second: Sprite sheet Luna jump_20
+  - first:
+      213: -6520231346636224382
+    second: Sprite sheet Luna jump_21
+  - first:
+      213: -6848731100848544812
+    second: Sprite sheet Luna jump_22
+  - first:
+      213: 7151182912027100232
+    second: Sprite sheet Luna jump_23
+  - first:
+      213: 2402629479446753531
+    second: Sprite sheet Luna jump_24
+  - first:
+      213: -2347605211130121890
+    second: Sprite sheet Luna jump_25
+  - first:
+      213: -1531247457524240947
+    second: Sprite sheet Luna jump_26
+  - first:
+      213: -4133383123229068211
+    second: Sprite sheet Luna jump_27
+  - first:
+      213: -7816271054102546301
+    second: Sprite sheet Luna jump_28
+  - first:
+      213: -3181268290675368205
+    second: Sprite sheet Luna jump_29
+  - first:
+      213: -1482090864775902032
+    second: Sprite sheet Luna jump_30
+  - first:
+      213: 7444301618466078437
+    second: Sprite sheet Luna jump_31
+  - first:
+      213: 3658295425133783412
+    second: Sprite sheet Luna jump_32
+  - first:
+      213: -1381374329739550668
+    second: Sprite sheet Luna jump_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_0
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 3021
+        width: 381
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c4f68de45fa9a20800000000000000
+      internalID: 3070035814993841186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_1
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 3010
+        width: 381
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe1525f46f9c27e0800000000000000
+      internalID: -1788879696014532867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_2
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 3005
+        width: 392
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaad48327df31ae80800000000000000
+      internalID: -8169178055826941270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_3
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 3005
+        width: 397
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de35859adec37a0800000000000000
+      internalID: -6395976059185795791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_4
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 3010
+        width: 401
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e195afeedc1efeb0800000000000000
+      internalID: -4684274818589814297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_5
+      rect:
+        serializedVersion: 2
+        x: 5304
+        y: 3010
+        width: 510
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e178f33b365d5d4e0800000000000000
+      internalID: -1957423838836848866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_6
+      rect:
+        serializedVersion: 2
+        x: 6271
+        y: 3021
+        width: 494
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2437ea53c5b2da0800000000000000
+      internalID: -5968575495519649055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_7
+      rect:
+        serializedVersion: 2
+        x: 7254
+        y: 3032
+        width: 451
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d6387ec7a8be230800000000000000
+      internalID: 3669178590488128889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_8
+      rect:
+        serializedVersion: 2
+        x: 8280
+        y: 3037
+        width: 537
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6fbc9d204653100800000000000000
+      internalID: 87085731210327806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_9
+      rect:
+        serializedVersion: 2
+        x: 9306
+        y: 3059
+        width: 461
+        height: 886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289dedb920d3afd90800000000000000
+      internalID: -7063265984162899582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_10
+      rect:
+        serializedVersion: 2
+        x: 10192
+        y: 3097
+        width: 557
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1c04d7aa089f720800000000000000
+      internalID: 2880474906414334445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2087
+        width: 541
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955b16518593a13a0800000000000000
+      internalID: -6693974845654190759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_12
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2054
+        width: 478
+        height: 870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0538c4a4178dbaf0800000000000000
+      internalID: -378998270895573746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_13
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 2027
+        width: 451
+        height: 876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2513a10ff51c4d0800000000000000
+      internalID: -3116103982327442728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_14
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 2022
+        width: 440
+        height: 881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9169f197820aebee0800000000000000
+      internalID: -1243380351416429031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_15
+      rect:
+        serializedVersion: 2
+        x: 4273
+        y: 2028
+        width: 413
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f2f78cc49a5d930800000000000000
+      internalID: 4167423177447649065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_16
+      rect:
+        serializedVersion: 2
+        x: 5293
+        y: 2044
+        width: 429
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce6a397960494830800000000000000
+      internalID: 4055843761173458624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_17
+      rect:
+        serializedVersion: 2
+        x: 6303
+        y: 2060
+        width: 451
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584328b2dadb0db10800000000000000
+      internalID: 2004310385636816005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_18
+      rect:
+        serializedVersion: 2
+        x: 7304
+        y: 2060
+        width: 471
+        height: 789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05735c40ad6d92760800000000000000
+      internalID: 7433708891822962512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_19
+      rect:
+        serializedVersion: 2
+        x: 8306
+        y: 2060
+        width: 468
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb10bb2db5b62c080800000000000000
+      internalID: -9168647849251241540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_20
+      rect:
+        serializedVersion: 2
+        x: 9305
+        y: 2060
+        width: 462
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb9b2711ddd4cce0800000000000000
+      internalID: -1385738895216632867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_21
+      rect:
+        serializedVersion: 2
+        x: 10294
+        y: 2060
+        width: 455
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288816ac22c7385a0800000000000000
+      internalID: -6520231346636224382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1066
+        width: 414
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3a0c3995b64f0a0800000000000000
+      internalID: -6848731100848544812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_23
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1066
+        width: 387
+        height: 832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844083b48fa1e3360800000000000000
+      internalID: 7151182912027100232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_24
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 1066
+        width: 419
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf03e4928cad75120800000000000000
+      internalID: 2402629479446753531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_25
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 1066
+        width: 430
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51bbb5af71ab6fd0800000000000000
+      internalID: -2347605211130121890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_26
+      rect:
+        serializedVersion: 2
+        x: 4246
+        y: 1066
+        width: 424
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd2c0fdc8aefbae0800000000000000
+      internalID: -1531247457524240947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_27
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 1066
+        width: 413
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d443653f2f543a6c0800000000000000
+      internalID: -4133383123229068211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_28
+      rect:
+        serializedVersion: 2
+        x: 6260
+        y: 1066
+        width: 408
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388bc0083e6078390800000000000000
+      internalID: -7816271054102546301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_29
+      rect:
+        serializedVersion: 2
+        x: 7265
+        y: 1066
+        width: 407
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe941f385dd9d3d0800000000000000
+      internalID: -3181268290675368205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_30
+      rect:
+        serializedVersion: 2
+        x: 8265
+        y: 1066
+        width: 407
+        height: 826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc4e20063e8e6be0800000000000000
+      internalID: -1482090864775902032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_31
+      rect:
+        serializedVersion: 2
+        x: 9263
+        y: 1066
+        width: 408
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee398161e87f4760800000000000000
+      internalID: 7444301618466078437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_32
+      rect:
+        serializedVersion: 2
+        x: 10262
+        y: 1066
+        width: 408
+        height: 822
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47929828e40e4c230800000000000000
+      internalID: 3658295425133783412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna jump_33
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 67
+        width: 408
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430e70ead5f54dce0800000000000000
+      internalID: -1381374329739550668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprite sheet Luna jump_28: -7816271054102546301
+      Sprite sheet Luna jump_10: 2880474906414334445
+      Sprite sheet Luna jump_33: -1381374329739550668
+      Sprite sheet Luna jump_14: -1243380351416429031
+      Sprite sheet Luna jump_8: 87085731210327806
+      Sprite sheet Luna jump_0: 3070035814993841186
+      Sprite sheet Luna jump_11: -6693974845654190759
+      Sprite sheet Luna jump_32: 3658295425133783412
+      Sprite sheet Luna jump_18: 7433708891822962512
+      Sprite sheet Luna jump_26: -1531247457524240947
+      Sprite sheet Luna jump_9: -7063265984162899582
+      Sprite sheet Luna jump_7: 3669178590488128889
+      Sprite sheet Luna jump_16: 4055843761173458624
+      Sprite sheet Luna jump_6: -5968575495519649055
+      Sprite sheet Luna jump_12: -378998270895573746
+      Sprite sheet Luna jump_23: 7151182912027100232
+      Sprite sheet Luna jump_20: -1385738895216632867
+      Sprite sheet Luna jump_21: -6520231346636224382
+      Sprite sheet Luna jump_15: 4167423177447649065
+      Sprite sheet Luna jump_22: -6848731100848544812
+      Sprite sheet Luna jump_30: -1482090864775902032
+      Sprite sheet Luna jump_19: -9168647849251241540
+      Sprite sheet Luna jump_24: 2402629479446753531
+      Sprite sheet Luna jump_13: -3116103982327442728
+      Sprite sheet Luna jump_1: -1788879696014532867
+      Sprite sheet Luna jump_25: -2347605211130121890
+      Sprite sheet Luna jump_27: -4133383123229068211
+      Sprite sheet Luna jump_2: -8169178055826941270
+      Sprite sheet Luna jump_4: -4684274818589814297
+      Sprite sheet Luna jump_5: -1957423838836848866
+      Sprite sheet Luna jump_31: 7444301618466078437
+      Sprite sheet Luna jump_29: -3181268290675368205
+      Sprite sheet Luna jump_17: 2004310385636816005
+      Sprite sheet Luna jump_3: -6395976059185795791
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

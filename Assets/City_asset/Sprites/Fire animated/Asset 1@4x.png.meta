@@ -1,0 +1,1656 @@
+fileFormatVersion: 2
+guid: 608916b08a6f4374e99298cd7962cb8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2765135881553666199
+    second: Asset 1@4x_0
+  - first:
+      213: -8761724222940815613
+    second: Asset 1@4x_1
+  - first:
+      213: -2951292595740608821
+    second: Asset 1@4x_2
+  - first:
+      213: 7444271048321928746
+    second: Asset 1@4x_3
+  - first:
+      213: 5286931818423591302
+    second: Asset 1@4x_4
+  - first:
+      213: -3479884459859045596
+    second: Asset 1@4x_5
+  - first:
+      213: 6010227752072049466
+    second: Asset 1@4x_6
+  - first:
+      213: 7801125919550264450
+    second: Asset 1@4x_7
+  - first:
+      213: -4937669556430696473
+    second: Asset 1@4x_8
+  - first:
+      213: 7245916015952066089
+    second: Asset 1@4x_9
+  - first:
+      213: -4878762703746102106
+    second: Asset 1@4x_10
+  - first:
+      213: -2369399843123807229
+    second: Asset 1@4x_11
+  - first:
+      213: 914250512227429188
+    second: Asset 1@4x_12
+  - first:
+      213: 673415607170617649
+    second: Asset 1@4x_13
+  - first:
+      213: 199591646238570658
+    second: Asset 1@4x_14
+  - first:
+      213: -5132461858092024663
+    second: Asset 1@4x_15
+  - first:
+      213: -8086356677056402290
+    second: Asset 1@4x_16
+  - first:
+      213: 4500360757026535250
+    second: Asset 1@4x_17
+  - first:
+      213: -2391284823918819599
+    second: Asset 1@4x_18
+  - first:
+      213: -8920841550532735319
+    second: Asset 1@4x_19
+  - first:
+      213: -6093557755459178736
+    second: Asset 1@4x_20
+  - first:
+      213: 6831248382366817601
+    second: Asset 1@4x_21
+  - first:
+      213: -4535263403536844806
+    second: Asset 1@4x_22
+  - first:
+      213: -1702646492635813577
+    second: Asset 1@4x_23
+  - first:
+      213: 7222795505252132623
+    second: Asset 1@4x_24
+  - first:
+      213: 4307931675494024074
+    second: Asset 1@4x_25
+  - first:
+      213: -2973938817813587282
+    second: Asset 1@4x_26
+  - first:
+      213: 2480422201392391568
+    second: Asset 1@4x_27
+  - first:
+      213: -3265919474243958495
+    second: Asset 1@4x_28
+  - first:
+      213: -6178386114387122172
+    second: Asset 1@4x_29
+  - first:
+      213: 827762743077962610
+    second: Asset 1@4x_30
+  - first:
+      213: -1593661274219154925
+    second: Asset 1@4x_31
+  - first:
+      213: 3119780484983880904
+    second: Asset 1@4x_32
+  - first:
+      213: -5418276596357483061
+    second: Asset 1@4x_33
+  - first:
+      213: 4164357800719881763
+    second: Asset 1@4x_34
+  - first:
+      213: -2873837036842737917
+    second: Asset 1@4x_35
+  - first:
+      213: -1632306325249286949
+    second: Asset 1@4x_36
+  - first:
+      213: 3527195820814878897
+    second: Asset 1@4x_37
+  - first:
+      213: -2788279493783282819
+    second: Asset 1@4x_38
+  - first:
+      213: 3411828183918536643
+    second: Asset 1@4x_39
+  - first:
+      213: -3688382429217957990
+    second: Asset 1@4x_40
+  - first:
+      213: 8283560220788988818
+    second: Asset 1@4x_41
+  - first:
+      213: -9144110482841188016
+    second: Asset 1@4x_42
+  - first:
+      213: 6733758342050485452
+    second: Asset 1@4x_43
+  - first:
+      213: 2698772020131875726
+    second: Asset 1@4x_44
+  - first:
+      213: 1722425062054664211
+    second: Asset 1@4x_45
+  - first:
+      213: -5756901446054539064
+    second: Asset 1@4x_46
+  - first:
+      213: -3726365550547418909
+    second: Asset 1@4x_47
+  - first:
+      213: -5848180185090996344
+    second: Asset 1@4x_48
+  - first:
+      213: -2943598156011795378
+    second: Asset 1@4x_49
+  - first:
+      213: -6039187780584933834
+    second: Asset 1@4x_50
+  - first:
+      213: 4255801432495830289
+    second: Asset 1@4x_51
+  - first:
+      213: -1337647759864215304
+    second: Asset 1@4x_52
+  - first:
+      213: -3818753509481836442
+    second: Asset 1@4x_53
+  - first:
+      213: -3672017798142192030
+    second: Asset 1@4x_54
+  - first:
+      213: -8848616911084019823
+    second: Asset 1@4x_55
+  - first:
+      213: 1465470264453460648
+    second: Asset 1@4x_56
+  - first:
+      213: -5669116380979817414
+    second: Asset 1@4x_57
+  - first:
+      213: -2895302788124846469
+    second: Asset 1@4x_58
+  - first:
+      213: -8381124500526277919
+    second: Asset 1@4x_59
+  - first:
+      213: -1376412832848753846
+    second: Asset 1@4x_60
+  - first:
+      213: 2322481348130088084
+    second: Asset 1@4x_61
+  - first:
+      213: 9098422853763126234
+    second: Asset 1@4x_62
+  - first:
+      213: -7202616072084308916
+    second: Asset 1@4x_63
+  - first:
+      213: 721849848836354614
+    second: Asset 1@4x_64
+  - first:
+      213: -2811652923208790554
+    second: Asset 1@4x_65
+  - first:
+      213: -1778867210274575784
+    second: Asset 1@4x_66
+  - first:
+      213: -8365103484249143020
+    second: Asset 1@4x_67
+  - first:
+      213: 8530096048014886724
+    second: Asset 1@4x_68
+  - first:
+      213: 6613865593248961150
+    second: Asset 1@4x_69
+  - first:
+      213: 7466482656122661929
+    second: Asset 1@4x_70
+  - first:
+      213: -5884999135025572901
+    second: Asset 1@4x_71
+  - first:
+      213: -7616016716062371945
+    second: Asset 1@4x_72
+  - first:
+      213: -1779916948637649132
+    second: Asset 1@4x_73
+  - first:
+      213: 4034073102017965212
+    second: Asset 1@4x_74
+  - first:
+      213: -4930623990636849593
+    second: Asset 1@4x_75
+  - first:
+      213: 1937935864555287730
+    second: Asset 1@4x_76
+  - first:
+      213: 6200583927740320000
+    second: Asset 1@4x_77
+  - first:
+      213: -5738760341292115595
+    second: Asset 1@4x_78
+  - first:
+      213: 86073551348379533
+    second: Asset 1@4x_79
+  - first:
+      213: 3184097973469809619
+    second: Asset 1@4x_80
+  - first:
+      213: -2061914600147468388
+    second: Asset 1@4x_81
+  - first:
+      213: 5068500188865048028
+    second: Asset 1@4x_82
+  - first:
+      213: 4208963882270740429
+    second: Asset 1@4x_83
+  - first:
+      213: 4947462233537887088
+    second: Asset 1@4x_84
+  - first:
+      213: -9185308370069003931
+    second: Asset 1@4x_85
+  - first:
+      213: 7967525551097378664
+    second: Asset 1@4x_86
+  - first:
+      213: -403350551282832194
+    second: Asset 1@4x_87
+  - first:
+      213: -8844710054322906871
+    second: Asset 1@4x_88
+  - first:
+      213: -2779079231873839403
+    second: Asset 1@4x_89
+  - first:
+      213: 7811733419831069672
+    second: Asset 1@4x_90
+  - first:
+      213: -6679938530417414034
+    second: Asset 1@4x_91
+  - first:
+      213: 496088966659491155
+    second: Asset 1@4x_92
+  - first:
+      213: -4676968937912718525
+    second: Asset 1@4x_93
+  - first:
+      213: -5353506112319684660
+    second: Asset 1@4x_94
+  - first:
+      213: -8896731589097783466
+    second: Asset 1@4x_95
+  - first:
+      213: -1175459433729273701
+    second: Asset 1@4x_96
+  - first:
+      213: 2281216679060421326
+    second: Asset 1@4x_97
+  - first:
+      213: 3794989417293890587
+    second: Asset 1@4x_98
+  - first:
+      213: -4645650182536034686
+    second: Asset 1@4x_99
+  - first:
+      213: 6168841965051909270
+    second: Asset 1@4x_100
+  - first:
+      213: 3269140332066979849
+    second: Asset 1@4x_101
+  - first:
+      213: 3640038259024416749
+    second: Asset 1@4x_102
+  - first:
+      213: 8066283350670046248
+    second: Asset 1@4x_103
+  - first:
+      213: 1973458548745022084
+    second: Asset 1@4x_104
+  - first:
+      213: 849542828230236443
+    second: Asset 1@4x_105
+  - first:
+      213: -4925902511643885008
+    second: Asset 1@4x_106
+  - first:
+      213: -6976162878193761615
+    second: Asset 1@4x_107
+  - first:
+      213: -6380122358163217728
+    second: Asset 1@4x_108
+  - first:
+      213: -5809829654142238927
+    second: Asset 1@4x_109
+  - first:
+      213: -4208966641486930052
+    second: Asset 1@4x_110
+  - first:
+      213: 7703350751051506692
+    second: Asset 1@4x_111
+  - first:
+      213: 863976576856780386
+    second: Asset 1@4x_112
+  - first:
+      213: 6532410680970138461
+    second: Asset 1@4x_113
+  - first:
+      213: -957493834727835509
+    second: Asset 1@4x_114
+  - first:
+      213: -3304082024814494593
+    second: Asset 1@4x_115
+  - first:
+      213: 1533772771465288919
+    second: Asset 1@4x_116
+  - first:
+      213: -5298384083366545845
+    second: Asset 1@4x_117
+  - first:
+      213: -2743684053944118204
+    second: Asset 1@4x_118
+  - first:
+      213: 8439865224689186574
+    second: Asset 1@4x_119
+  - first:
+      213: -6499329733620220516
+    second: Asset 1@4x_120
+  - first:
+      213: -861426717714464367
+    second: Asset 1@4x_121
+  - first:
+      213: -2798455398664773581
+    second: Asset 1@4x_122
+  - first:
+      213: 4885759526397317786
+    second: Asset 1@4x_123
+  - first:
+      213: -4637898106127784170
+    second: Asset 1@4x_124
+  - first:
+      213: 7156355689818373613
+    second: Asset 1@4x_125
+  - first:
+      213: -6021588900470949274
+    second: Asset 1@4x_126
+  - first:
+      213: 3398297871367775527
+    second: Asset 1@4x_127
+  - first:
+      213: -4442125216985324931
+    second: Asset 1@4x_128
+  - first:
+      213: 2230636063660263823
+    second: Asset 1@4x_129
+  - first:
+      213: -4491659574154344900
+    second: Asset 1@4x_130
+  - first:
+      213: 1970098654673348568
+    second: Asset 1@4x_131
+  - first:
+      213: -5712459013226359475
+    second: Asset 1@4x_132
+  - first:
+      213: -8213910247686008602
+    second: Asset 1@4x_133
+  - first:
+      213: 8341550215336905183
+    second: Asset 1@4x_134
+  - first:
+      213: 939095686569194309
+    second: Asset 1@4x_135
+  - first:
+      213: 9107127640481269551
+    second: Asset 1@4x_136
+  - first:
+      213: -4192926653965666742
+    second: Asset 1@4x_137
+  - first:
+      213: 5237985344218867422
+    second: Asset 1@4x_138
+  - first:
+      213: -6801896120449355330
+    second: Asset 1@4x_139
+  - first:
+      213: -9090546367890574207
+    second: Asset 1@4x_140
+  - first:
+      213: 6676342446118976270
+    second: Asset 1@4x_141
+  - first:
+      213: -3412873584177763040
+    second: Asset 1@4x_142
+  - first:
+      213: 1546883813388975806
+    second: Asset 1@4x_143
+  - first:
+      213: 8652413411805738663
+    second: Asset 1@4x_144
+  - first:
+      213: 4859193326025001988
+    second: Asset 1@4x_145
+  - first:
+      213: -8847451884616020635
+    second: Asset 1@4x_146
+  - first:
+      213: -1620572908167013475
+    second: Asset 1@4x_147
+  - first:
+      213: -5339609307707982402
+    second: Asset 1@4x_148
+  - first:
+      213: 3706735910295344869
+    second: Asset 1@4x_149
+  - first:
+      213: 5987040679485089544
+    second: Asset 1@4x_150
+  - first:
+      213: 830627351859871558
+    second: Asset 1@4x_151
+  - first:
+      213: 1225720705838051532
+    second: Asset 1@4x_152
+  - first:
+      213: -6268748638630826427
+    second: Asset 1@4x_153
+  - first:
+      213: -1154645897131686859
+    second: Asset 1@4x_154
+  - first:
+      213: 36108145798003470
+    second: Asset 1@4x_155
+  - first:
+      213: -2392335109056408812
+    second: Asset 1@4x_156
+  - first:
+      213: -1642030130263744746
+    second: Asset 1@4x_157
+  - first:
+      213: 6597373619475941426
+    second: Asset 1@4x_158
+  - first:
+      213: 7334514316993251804
+    second: Asset 1@4x_159
+  - first:
+      213: 3078533827349472262
+    second: Asset 1@4x_160
+  - first:
+      213: 3274385487106428420
+    second: Asset 1@4x_161
+  - first:
+      213: 8591326342908241131
+    second: Asset 1@4x_162
+  - first:
+      213: 3881828620813428399
+    second: Asset 1@4x_163
+  - first:
+      213: 1846215829604164560
+    second: Asset 1@4x_164
+  - first:
+      213: -4915598514465672056
+    second: Asset 1@4x_165
+  - first:
+      213: -5230061671100345285
+    second: Asset 1@4x_166
+  - first:
+      213: 2812056657458312183
+    second: Asset 1@4x_167
+  - first:
+      213: -2996810584425124234
+    second: Asset 1@4x_168
+  - first:
+      213: 8121929762370879239
+    second: Asset 1@4x_169
+  - first:
+      213: 8690084604432009974
+    second: Asset 1@4x_170
+  - first:
+      213: 2334234806188518399
+    second: Asset 1@4x_171
+  - first:
+      213: -2678821023292850569
+    second: Asset 1@4x_172
+  - first:
+      213: 5872297923039646577
+    second: Asset 1@4x_173
+  - first:
+      213: -472171692605517597
+    second: Asset 1@4x_174
+  - first:
+      213: 3536955740037160801
+    second: Asset 1@4x_175
+  - first:
+      213: 59121122065684496
+    second: Asset 1@4x_176
+  - first:
+      213: 5535982601991205832
+    second: Asset 1@4x_177
+  - first:
+      213: 6353323133806291150
+    second: Asset 1@4x_178
+  - first:
+      213: -4940681130405538707
+    second: Asset 1@4x_179
+  - first:
+      213: 3224158884546547344
+    second: Asset 1@4x_180
+  - first:
+      213: -2835779921097006466
+    second: Asset 1@4x_181
+  - first:
+      213: -1033019171963881271
+    second: Asset 1@4x_182
+  - first:
+      213: 649417244488602309
+    second: Asset 1@4x_183
+  - first:
+      213: -8071252676526257515
+    second: Asset 1@4x_184
+  - first:
+      213: 4980784348779855695
+    second: Asset 1@4x_185
+  - first:
+      213: 5071085626341184084
+    second: Asset 1@4x_186
+  - first:
+      213: -8705922643383937073
+    second: Asset 1@4x_187
+  - first:
+      213: -4939796822591688651
+    second: Asset 1@4x_188
+  - first:
+      213: 4931022803703077144
+    second: Asset 1@4x_189
+  - first:
+      213: 7086120530050067444
+    second: Asset 1@4x_190
+  - first:
+      213: -1362513657792361360
+    second: Asset 1@4x_191
+  - first:
+      213: 3953959951075975656
+    second: Asset 1@4x_192
+  - first:
+      213: -6645726023499951992
+    second: Asset 1@4x_193
+  - first:
+      213: 8869954161508477540
+    second: Asset 1@4x_194
+  - first:
+      213: 6933816158364691852
+    second: Asset 1@4x_195
+  - first:
+      213: -8267467983486072054
+    second: Asset 1@4x_196
+  - first:
+      213: 1781649888898376046
+    second: Asset 1@4x_197
+  - first:
+      213: -6964659347569118389
+    second: Asset 1@4x_198
+  - first:
+      213: 4138283670859524117
+    second: Asset 1@4x_199
+  - first:
+      213: 7902701594696531635
+    second: Asset 1@4x_200
+  - first:
+      213: -1846819537021129192
+    second: Asset 1@4x_201
+  - first:
+      213: 915686115435800288
+    second: Asset 1@4x_202
+  - first:
+      213: 5786389930414299706
+    second: Asset 1@4x_203
+  - first:
+      213: 5850408184901270346
+    second: Asset 1@4x_204
+  - first:
+      213: 593470669694212368
+    second: Asset 1@4x_205
+  - first:
+      213: -4266856856480208917
+    second: Asset 1@4x_206
+  - first:
+      213: -1871236090771476755
+    second: Asset 1@4x_207
+  - first:
+      213: 5137292665468761264
+    second: Asset 1@4x_208
+  - first:
+      213: -5390354175470044772
+    second: Asset 1@4x_209
+  - first:
+      213: -5077361018853932187
+    second: Asset 1@4x_210
+  - first:
+      213: -8529067463082128255
+    second: Asset 1@4x_211
+  - first:
+      213: 2846260761776081542
+    second: Asset 1@4x_212
+  - first:
+      213: 3228823908614434996
+    second: Asset 1@4x_213
+  - first:
+      213: -6994197984802597448
+    second: Asset 1@4x_214
+  - first:
+      213: 7827092685992913647
+    second: Asset 1@4x_215
+  - first:
+      213: -1413362049580790504
+    second: Asset 1@4x_216
+  - first:
+      213: 5776760305230674094
+    second: Asset 1@4x_217
+  - first:
+      213: -7148906374725132137
+    second: Asset 1@4x_218
+  - first:
+      213: 6868355621946398855
+    second: Asset 1@4x_219
+  - first:
+      213: -2094014575829462616
+    second: Asset 1@4x_220
+  - first:
+      213: -3559611060112777832
+    second: Asset 1@4x_221
+  - first:
+      213: 8649551836815501107
+    second: Asset 1@4x_222
+  - first:
+      213: -8265500029321789225
+    second: Asset 1@4x_223
+  - first:
+      213: -4991260972923427032
+    second: Asset 1@4x_224
+  - first:
+      213: 124183607387011202
+    second: Asset 1@4x_225
+  - first:
+      213: 5358642243471641062
+    second: Asset 1@4x_226
+  - first:
+      213: 8468716367290711982
+    second: Asset 1@4x_227
+  - first:
+      213: -5768520127903913279
+    second: Asset 1@4x_228
+  - first:
+      213: 525447267035085832
+    second: Asset 1@4x_229
+  - first:
+      213: -7367717365549097923
+    second: Asset 1@4x_230
+  - first:
+      213: -197018925563777246
+    second: Asset 1@4x_231
+  - first:
+      213: 5604356847548357307
+    second: Asset 1@4x_232
+  - first:
+      213: 8094336685507171796
+    second: Asset 1@4x_233
+  - first:
+      213: 4642899823607380070
+    second: Asset 1@4x_234
+  - first:
+      213: -7945378338705463042
+    second: Asset 1@4x_235
+  - first:
+      213: -4118278828272247305
+    second: Asset 1@4x_236
+  - first:
+      213: -5144092431422387594
+    second: Asset 1@4x_237
+  - first:
+      213: -1621002359041600387
+    second: Asset 1@4x_238
+  - first:
+      213: -4760201195063770154
+    second: Asset 1@4x_239
+  - first:
+      213: -8169629910783183276
+    second: Asset 1@4x_240
+  - first:
+      213: -2467162789667214411
+    second: Asset 1@4x_241
+  - first:
+      213: 511618794758571006
+    second: Asset 1@4x_242
+  - first:
+      213: 5860653074015392409
+    second: Asset 1@4x_243
+  - first:
+      213: 8710418361134758009
+    second: Asset 1@4x_244
+  - first:
+      213: -4467638316123204462
+    second: Asset 1@4x_245
+  - first:
+      213: -8226532607011120615
+    second: Asset 1@4x_246
+  - first:
+      213: 4743681856933277663
+    second: Asset 1@4x_247
+  - first:
+      213: 6671905459637551991
+    second: Asset 1@4x_248
+  - first:
+      213: 1352060051421027781
+    second: Asset 1@4x_249
+  - first:
+      213: -4021604363324437584
+    second: Asset 1@4x_250
+  - first:
+      213: 6635232570355233575
+    second: Asset 1@4x_251
+  - first:
+      213: -4276110198454903861
+    second: Asset 1@4x_252
+  - first:
+      213: -2611300739896088940
+    second: Asset 1@4x_253
+  - first:
+      213: 176542980361940245
+    second: Asset 1@4x_254
+  - first:
+      213: 232557429466249358
+    second: Asset 1@4x_255
+  - first:
+      213: -8223032572964636211
+    second: Asset 1@4x_256
+  - first:
+      213: -8125379483771798513
+    second: Asset 1@4x_257
+  - first:
+      213: -5619594572650061222
+    second: Asset 1@4x_258
+  - first:
+      213: -4438113762433770142
+    second: Asset 1@4x_259
+  - first:
+      213: 7685595403726790721
+    second: Asset 1@4x_260
+  - first:
+      213: 2563060713734142166
+    second: Asset 1@4x_261
+  - first:
+      213: -8146172819115443659
+    second: Asset 1@4x_262
+  - first:
+      213: 999657651100173260
+    second: Asset 1@4x_263
+  - first:
+      213: 2737344636853656936
+    second: Asset 1@4x_264
+  - first:
+      213: -1166975208618941788
+    second: Asset 1@4x_265
+  - first:
+      213: -5530279044688269151
+    second: Asset 1@4x_266
+  - first:
+      213: -8190048918809495307
+    second: Asset 1@4x_267
+  - first:
+      213: 3541860215617296541
+    second: Asset 1@4x_268
+  - first:
+      213: 5781869897718080992
+    second: Asset 1@4x_269
+  - first:
+      213: -4309342395480027857
+    second: Asset 1@4x_270
+  - first:
+      213: 3136876644880898493
+    second: Asset 1@4x_271
+  - first:
+      213: -1751569555515099635
+    second: Asset 1@4x_272
+  - first:
+      213: 8206964349491022050
+    second: Asset 1@4x_273
+  - first:
+      213: 5414906324272977266
+    second: Asset 1@4x_274
+  - first:
+      213: -4770770178313486205
+    second: Asset 1@4x_275
+  - first:
+      213: 8905704034960404700
+    second: Asset 1@4x_276
+  - first:
+      213: 3897053809636652597
+    second: Asset 1@4x_277
+  - first:
+      213: 2227471141579964854
+    second: Asset 1@4x_278
+  - first:
+      213: 90065070041542515
+    second: Asset 1@4x_279
+  - first:
+      213: 6755424085188413710
+    second: Asset 1@4x_280
+  - first:
+      213: -3333108853837384344
+    second: Asset 1@4x_281
+  - first:
+      213: 4874574662803372847
+    second: Asset 1@4x_282
+  - first:
+      213: -981275548199889963
+    second: Asset 1@4x_283
+  - first:
+      213: 8199147131696828490
+    second: Asset 1@4x_284
+  - first:
+      213: -8276826897189651623
+    second: Asset 1@4x_285
+  - first:
+      213: 1392599354962599449
+    second: Asset 1@4x_286
+  - first:
+      213: -7703352226773520063
+    second: Asset 1@4x_287
+  - first:
+      213: 3881231585772182558
+    second: Asset 1@4x_288
+  - first:
+      213: -1828567892869404501
+    second: Asset 1@4x_289
+  - first:
+      213: -5056153676546695755
+    second: Asset 1@4x_290
+  - first:
+      213: 7988012505818324878
+    second: Asset 1@4x_291
+  - first:
+      213: -2691456560754044615
+    second: Asset 1@4x_292
+  - first:
+      213: 9129389355074241775
+    second: Asset 1@4x_293
+  - first:
+      213: -2656520937709426882
+    second: Asset 1@4x_294
+  - first:
+      213: 439144900900145395
+    second: Asset 1@4x_295
+  - first:
+      213: -3133030888487483316
+    second: Asset 1@4x_296
+  - first:
+      213: 3850258698773416856
+    second: Asset 1@4x_297
+  - first:
+      213: 6579644139352414194
+    second: Asset 1@4x_298
+  - first:
+      213: 6655175263863676737
+    second: Asset 1@4x_299
+  - first:
+      213: 2155472892327184088
+    second: Asset 1@4x_300
+  - first:
+      213: -5511803360234970479
+    second: Asset 1@4x_301
+  - first:
+      213: 8346255035793429702
+    second: Asset 1@4x_302
+  - first:
+      213: 8618294136983727671
+    second: Asset 1@4x_303
+  - first:
+      213: 9150318009969735200
+    second: Asset 1@4x_304
+  - first:
+      213: -3005930325861957831
+    second: Asset 1@4x_305
+  - first:
+      213: 3391923364345214196
+    second: Asset 1@4x_306
+  - first:
+      213: 319283176626387041
+    second: Asset 1@4x_307
+  - first:
+      213: 6109042095745629673
+    second: Asset 1@4x_308
+  - first:
+      213: -406135206798720134
+    second: Asset 1@4x_309
+  - first:
+      213: 8484811068622257366
+    second: Asset 1@4x_310
+  - first:
+      213: 7137754812124147399
+    second: Asset 1@4x_311
+  - first:
+      213: 7156289858138341413
+    second: Asset 1@4x_312
+  - first:
+      213: 7426625399108062141
+    second: Asset 1@4x_313
+  - first:
+      213: -2945644662557899168
+    second: Asset 1@4x_314
+  - first:
+      213: -3619498861379904712
+    second: Asset 1@4x_315
+  - first:
+      213: -6023242425439371862
+    second: Asset 1@4x_316
+  - first:
+      213: -8757213356577281070
+    second: Asset 1@4x_317
+  - first:
+      213: -8692289242824153994
+    second: Asset 1@4x_318
+  - first:
+      213: -2337772807757238142
+    second: Asset 1@4x_319
+  - first:
+      213: -5604234904886853101
+    second: Asset 1@4x_320
+  - first:
+      213: -3966279525857857180
+    second: Asset 1@4x_321
+  - first:
+      213: -2330765246114039053
+    second: Asset 1@4x_322
+  - first:
+      213: -398036302904703347
+    second: Asset 1@4x_323
+  - first:
+      213: 263741039825889866
+    second: Asset 1@4x_324
+  - first:
+      213: 8368268168557427854
+    second: Asset 1@4x_325
+  - first:
+      213: -8902689597948731673
+    second: Asset 1@4x_326
+  - first:
+      213: -5902350035410983467
+    second: Asset 1@4x_327
+  - first:
+      213: 2312468220030085217
+    second: Asset 1@4x_328
+  - first:
+      213: 1451752021504084934
+    second: Asset 1@4x_329
+  - first:
+      213: 8366424055836084109
+    second: Asset 1@4x_330
+  - first:
+      213: 6042214323419402554
+    second: Asset 1@4x_331
+  - first:
+      213: 5982858085596147698
+    second: Asset 1@4x_332
+  - first:
+      213: -7713298757824437965
+    second: Asset 1@4x_333
+  - first:
+      213: -4506869683192741802
+    second: Asset 1@4x_334
+  - first:
+      213: -3397952506157030096
+    second: Asset 1@4x_335
+  - first:
+      213: 7004124866165406310
+    second: Asset 1@4x_336
+  - first:
+      213: 7919220952360498772
+    second: Asset 1@4x_337
+  - first:
+      213: -5851312034548250765
+    second: Asset 1@4x_338
+  - first:
+      213: -3620556081441303369
+    second: Asset 1@4x_339
+  - first:
+      213: 801963301642203556
+    second: Asset 1@4x_340
+  - first:
+      213: 1013048569727143450
+    second: Asset 1@4x_341
+  - first:
+      213: 7848853843509103449
+    second: Asset 1@4x_342
+  - first:
+      213: 7263343950479773587
+    second: Asset 1@4x_343
+  - first:
+      213: 3850190900965902126
+    second: Asset 1@4x_344
+  - first:
+      213: 3432135477745598260
+    second: Asset 1@4x_345
+  - first:
+      213: 495212289870821509
+    second: Asset 1@4x_346
+  - first:
+      213: 8251405446495692205
+    second: Asset 1@4x_347
+  - first:
+      213: 6637142182439988660
+    second: Asset 1@4x_348
+  - first:
+      213: -4432026994198771139
+    second: Asset 1@4x_349
+  - first:
+      213: -8446915785557732900
+    second: Asset 1@4x_350
+  - first:
+      213: -3336052942554176320
+    second: Asset 1@4x_351
+  - first:
+      213: 3906925300926111255
+    second: Asset 1@4x_352
+  - first:
+      213: 2727481280382063708
+    second: Asset 1@4x_353
+  - first:
+      213: -7092655979736971730
+    second: Asset 1@4x_354
+  - first:
+      213: -6885842655761282089
+    second: Asset 1@4x_355
+  - first:
+      213: -2860344637852201358
+    second: Asset 1@4x_356
+  - first:
+      213: -4939962743627221391
+    second: Asset 1@4x_357
+  - first:
+      213: 6930247040607237490
+    second: Asset 1@4x_358
+  - first:
+      213: 4357694453362623146
+    second: Asset 1@4x_359
+  - first:
+      213: -4731986938199087829
+    second: Asset 1@4x_360
+  - first:
+      213: 1409630384547473727
+    second: Asset 1@4x_361
+  - first:
+      213: -6121624197830668915
+    second: Asset 1@4x_362
+  - first:
+      213: -3881983387072804898
+    second: Asset 1@4x_363
+  - first:
+      213: -3951559187441267889
+    second: Asset 1@4x_364
+  - first:
+      213: 4144401876495968422
+    second: Asset 1@4x_365
+  - first:
+      213: 2843658267772843860
+    second: Asset 1@4x_366
+  - first:
+      213: -4927842385336898707
+    second: Asset 1@4x_367
+  - first:
+      213: 2779744552182088863
+    second: Asset 1@4x_368
+  - first:
+      213: 6843610737217734081
+    second: Asset 1@4x_369
+  - first:
+      213: 1105145224488120929
+    second: Asset 1@4x_370
+  - first:
+      213: -4104205585539503422
+    second: Asset 1@4x_371
+  - first:
+      213: 1703342366260582323
+    second: Asset 1@4x_372
+  - first:
+      213: 2708233165413787596
+    second: Asset 1@4x_373
+  - first:
+      213: -433812115008898007
+    second: Asset 1@4x_374
+  - first:
+      213: 1339504129018381483
+    second: Asset 1@4x_375
+  - first:
+      213: -4186995169297733425
+    second: Asset 1@4x_376
+  - first:
+      213: 4207960085468448131
+    second: Asset 1@4x_377
+  - first:
+      213: 4756017164545596520
+    second: Asset 1@4x_378
+  - first:
+      213: -4770691764485133873
+    second: Asset 1@4x_379
+  - first:
+      213: -5422230193889134913
+    second: Asset 1@4x_380
+  - first:
+      213: 1407547364288953931
+    second: Asset 1@4x_381
+  - first:
+      213: -7255544047505026349
+    second: Asset 1@4x_382
+  - first:
+      213: 7069183152767962861
+    second: Asset 1@4x_383
+  - first:
+      213: 7686448905733352304
+    second: Asset 1@4x_384
+  - first:
+      213: -4117622513129566851
+    second: Asset 1@4x_385
+  - first:
+      213: 1924617036261770838
+    second: Asset 1@4x_386
+  - first:
+      213: 3562751142004502298
+    second: Asset 1@4x_387
+  - first:
+      213: -4786289721152284464
+    second: Asset 1@4x_388
+  - first:
+      213: -2593559535504082253
+    second: Asset 1@4x_389
+  - first:
+      213: -4909260839836273111
+    second: Asset 1@4x_390
+  - first:
+      213: -8468427539353189526
+    second: Asset 1@4x_391
+  - first:
+      213: -3107209889780238104
+    second: Asset 1@4x_392
+  - first:
+      213: 616246515964135489
+    second: Asset 1@4x_393
+  - first:
+      213: 2748336464858736232
+    second: Asset 1@4x_394
+  - first:
+      213: 4701212911653097933
+    second: Asset 1@4x_395
+  - first:
+      213: 6747219139972781830
+    second: Asset 1@4x_396
+  - first:
+      213: -2567968278555503222
+    second: Asset 1@4x_397
+  - first:
+      213: -3320884448564963958
+    second: Asset 1@4x_398
+  - first:
+      213: -8571442193316431957
+    second: Asset 1@4x_399
+  - first:
+      213: 6803115081574591192
+    second: Asset 1@4x_400
+  - first:
+      213: -3524006940674557042
+    second: Asset 1@4x_401
+  - first:
+      213: -1620238186254939643
+    second: Asset 1@4x_402
+  - first:
+      213: -8853794952617617563
+    second: Asset 1@4x_403
+  - first:
+      213: -5901514933091238730
+    second: Asset 1@4x_404
+  - first:
+      213: -8621556148571949327
+    second: Asset 1@4x_405
+  - first:
+      213: 2180097729086861651
+    second: Asset 1@4x_406
+  - first:
+      213: -2050867060755267697
+    second: Asset 1@4x_407
+  - first:
+      213: 6617354857768947335
+    second: Asset 1@4x_408
+  - first:
+      213: -457711256143724276
+    second: Asset 1@4x_409
+  - first:
+      213: -5432209549289786295
+    second: Asset 1@4x_410
+  - first:
+      213: 3817195745084023088
+    second: Asset 1@4x_411
+  - first:
+      213: 6883522122901176377
+    second: Asset 1@4x_412
+  - first:
+      213: 9075225068711367932
+    second: Asset 1@4x_413
+  - first:
+      213: -2130392710402253148
+    second: Asset 1@4x_414
+  - first:
+      213: -2931563189384634585
+    second: Asset 1@4x_415
+  - first:
+      213: -1004623531101146097
+    second: Asset 1@4x_416
+  - first:
+      213: -4886174501045310301
+    second: Asset 1@4x_417
+  - first:
+      213: 6288604686395267555
+    second: Asset 1@4x_418
+  - first:
+      213: -8947734600647857930
+    second: Asset 1@4x_419
+  - first:
+      213: -3162716475936888150
+    second: Asset 1@4x_420
+  - first:
+      213: 49863333157081844
+    second: Asset 1@4x_421
+  - first:
+      213: 8578213826403923981
+    second: Asset 1@4x_422
+  - first:
+      213: -1398115270376147807
+    second: Asset 1@4x_423
+  - first:
+      213: 5415506846889148450
+    second: Asset 1@4x_424
+  - first:
+      213: -4668911977231616170
+    second: Asset 1@4x_425
+  - first:
+      213: 3999802217801445359
+    second: Asset 1@4x_426
+  - first:
+      213: 9030377108967972132
+    second: Asset 1@4x_427
+  - first:
+      213: -8342181880172642490
+    second: Asset 1@4x_428
+  - first:
+      213: -5093562054660315489
+    second: Asset 1@4x_429
+  - first:
+      213: 446778431135222364
+    second: Asset 1@4x_430
+  - first:
+      213: -37879196406745512
+    second: Asset 1@4x_431
+  - first:
+      213: -4346470485891748549
+    second: Asset 1@4x_432
+  - first:
+      213: 6342127277803785249
+    second: Asset 1@4x_433
+  - first:
+      213: -2558127669081155210
+    second: Asset 1@4x_434
+  - first:
+      213: 1519834601435541639
+    second: Asset 1@4x_435
+  - first:
+      213: -7495473157600398231
+    second: Asset 1@4x_436
+  - first:
+      213: 993644997599290380
+    second: Asset 1@4x_437
+  - first:
+      213: 1526471191491547482
+    second: Asset 1@4x_438
+  - first:
+      213: -677563196545077722
+    second: Asset 1@4x_439
+  - first:
+      213: 7185958367725114165
+    second: Asset 1@4x_440
+  - first:
+      213: -5521494452141428394
+    second: Asset 1@4x_441
+  - first:
+      213: 3447368138593785659
+    second: Asset 1@4x_442
+  - first:
+      213: 8341666306512251259
+    second: Asset 1@4x_443
+  - first:
+      213: 8602799391504044574
+    second: Asset 1@4x_444
+  - first:
+      213: -6715850314556426617
+    second: Asset 1@4x_445
+  - first:
+      213: -8378280047791677286
+    second: Asset 1@4x_446
+  - first:
+      213: -7664070776633610429
+    second: Asset 1@4x_447
+  - first:
+      213: 725705117013051639
+    second: Asset 1@4x_448
+  - first:
+      213: -725360813863892522
+    second: Asset 1@4x_449
+  - first:
+      213: 6333370180517610154
+    second: Asset 1@4x_450
+  - first:
+      213: -7302234466888767947
+    second: Asset 1@4x_451
+  - first:
+      213: -7728028037645774378
+    second: Asset 1@4x_452
+  - first:
+      213: -6597160358167174481
+    second: Asset 1@4x_453
+  - first:
+      213: 8360222655038675607
+    second: Asset 1@4x_454
+  - first:
+      213: 4510537375480183175
+    second: Asset 1@4x_455
+  - first:
+      213: 1345853585037894235
+    second: Asset 1@4x_456
+  - first:
+      213: 1143968440189577421
+    second: Asset 1@4x_457
+  - first:
+      213: 6363465326816086347
+    second: Asset 1@4x_458
+  - first:
+      213: 5774661861405609795
+    second: Asset 1@4x_459
+  - first:
+      213: 8914234875562995430
+    second: Asset 1@4x_460
+  - first:
+      213: -4697650838143124694
+    second: Asset 1@4x_461
+  - first:
+      213: 2914818575425362157
+    second: Asset 1@4x_462
+  - first:
+      213: -5680743858174086124
+    second: Asset 1@4x_463
+  - first:
+      213: 710113771689002889
+    second: Asset 1@4x_464
+  - first:
+      213: 3230074576356521938
+    second: Asset 1@4x_465
+  - first:
+      213: 6179841913741883063
+    second: Asset 1@4x_466
+  - first:
+      213: -3389085948715981012
+    second: Asset 1@4x_467
+  - first:
+      213: 1747379199170260860
+    second: Asset 1@4x_468
+  - first:
+      213: 7173866160135797261
+    second: Asset 1@4x_469
+  - first:
+      213: 7467733799524035950
+    second: Asset 1@4x_470
+  - first:
+      213: 1705770982078752993
+    second: Asset 1@4x_471
+  - first:
+      213: 648355556851652419
+    second: Asset 1@4x_472
+  - first:
+      213: 8434574254051845545
+    second: Asset 1@4x_473
+  - first:
+      213: -8516507974541713658
+    second: Asset 1@4x_474
+  - first:
+      213: 384754669913234692
+    second: Asset 1@4x_475
+  - first:
+      213: -3430288432261423903
+    second: Asset 1@4x_476
+  - first:
+      213: -6561535984501907599
+    second: Asset 1@4x_477
+  - first:
+      213: 8787141319959966106
+    second: Asset 1@4x_478
+  - first:
+      213: 5459433325293142190
+    second: Asset 1@4x_479
+  - first:
+      213: -557295542366258973
+    second: Asset 1@4x_480
+  - first:
+      213: 3791041754572026348
+    second: Asset 1@4x_481
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Asset 1@4x_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 602
+        height: 1301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a87f267b8715c200800000000000000
+      internalID: 199591646238570658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 1@4x_23
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 0
+        width: 570
+        height: 1301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739a064390cfe58e0800000000000000
+      internalID: -1702646492635813577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 1@4x_29
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 0
+        width: 561
+        height: 1301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408efbe3096f14aa0800000000000000
+      internalID: -6178386114387122172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Asset 1@4x_38
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 0
+        width: 537
+        height: 1301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b9a86c29a0e49d0800000000000000
+      internalID: -2788279493783282819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2f43eb99feb04e14e868d0f3266a7863
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Asset 1@4x_38: -2788279493783282819
+      Asset 1@4x_23: -1702646492635813577
+      Asset 1@4x_29: -6178386114387122172
+      Asset 1@4x_14: 199591646238570658
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

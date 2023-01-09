@@ -1,0 +1,1559 @@
+fileFormatVersion: 2
+guid: 97103b2e8864bcb4e9915f558713ef58
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6537514146654444627
+    second: Sprite sheet Luna walk_0
+  - first:
+      213: -4577203156458852955
+    second: Sprite sheet Luna walk_1
+  - first:
+      213: 3009570003696296057
+    second: Sprite sheet Luna walk_2
+  - first:
+      213: 2827571687266610140
+    second: Sprite sheet Luna walk_3
+  - first:
+      213: 6581933677205017336
+    second: Sprite sheet Luna walk_4
+  - first:
+      213: 7813561349838035423
+    second: Sprite sheet Luna walk_5
+  - first:
+      213: -430060174138315131
+    second: Sprite sheet Luna walk_6
+  - first:
+      213: -6166192389101130233
+    second: Sprite sheet Luna walk_7
+  - first:
+      213: 1884322671161661614
+    second: Sprite sheet Luna walk_8
+  - first:
+      213: -3002869438816783876
+    second: Sprite sheet Luna walk_9
+  - first:
+      213: 460092834357162766
+    second: Sprite sheet Luna walk_10
+  - first:
+      213: -931689711872336503
+    second: Sprite sheet Luna walk_11
+  - first:
+      213: 4120043672393957127
+    second: Sprite sheet Luna walk_12
+  - first:
+      213: -8219902237808722471
+    second: Sprite sheet Luna walk_13
+  - first:
+      213: 7428631012593590874
+    second: Sprite sheet Luna walk_14
+  - first:
+      213: -1986128774876875433
+    second: Sprite sheet Luna walk_15
+  - first:
+      213: 929084574892685789
+    second: Sprite sheet Luna walk_16
+  - first:
+      213: 5303718375040511549
+    second: Sprite sheet Luna walk_17
+  - first:
+      213: 3498173998747915528
+    second: Sprite sheet Luna walk_18
+  - first:
+      213: 1347140803764083159
+    second: Sprite sheet Luna walk_19
+  - first:
+      213: -1610127696645674602
+    second: Sprite sheet Luna walk_20
+  - first:
+      213: -884715124789002910
+    second: Sprite sheet Luna walk_21
+  - first:
+      213: -2107623882914552461
+    second: Sprite sheet Luna walk_22
+  - first:
+      213: 5813543543582492257
+    second: Sprite sheet Luna walk_23
+  - first:
+      213: 7317513358128135534
+    second: Sprite sheet Luna walk_24
+  - first:
+      213: -3903291879716809194
+    second: Sprite sheet Luna walk_25
+  - first:
+      213: 6299636765072897137
+    second: Sprite sheet Luna walk_26
+  - first:
+      213: 7928731564995021970
+    second: Sprite sheet Luna walk_27
+  - first:
+      213: 7327832696721537470
+    second: Sprite sheet Luna walk_28
+  - first:
+      213: -8135282664392315399
+    second: Sprite sheet Luna walk_29
+  - first:
+      213: 8360111782026899477
+    second: Sprite sheet Luna walk_30
+  - first:
+      213: -5906796568713421612
+    second: Sprite sheet Luna walk_31
+  - first:
+      213: -6969097252799017738
+    second: Sprite sheet Luna walk_32
+  - first:
+      213: 6062557802825410407
+    second: Sprite sheet Luna walk_33
+  - first:
+      213: 3718997663494465246
+    second: Sprite sheet Luna walk_34
+  - first:
+      213: 1564637252107304587
+    second: Sprite sheet Luna walk_35
+  - first:
+      213: -1118593053219880421
+    second: Sprite sheet Luna walk_36
+  - first:
+      213: -8879045374970755360
+    second: Sprite sheet Luna walk_37
+  - first:
+      213: 6777175389313723569
+    second: Sprite sheet Luna walk_38
+  - first:
+      213: -4774326635366838038
+    second: Sprite sheet Luna walk_39
+  - first:
+      213: -8967486797347247064
+    second: Sprite sheet Luna walk_40
+  - first:
+      213: 6849756445979632239
+    second: Sprite sheet Luna walk_41
+  - first:
+      213: -5809856884101977764
+    second: Sprite sheet Luna walk_42
+  - first:
+      213: 8699555674293734719
+    second: Sprite sheet Luna walk_43
+  - first:
+      213: 6276214556221124188
+    second: Sprite sheet Luna walk_44
+  - first:
+      213: 1971731085742349210
+    second: Sprite sheet Luna walk_45
+  - first:
+      213: 8363693442565586730
+    second: Sprite sheet Luna walk_46
+  - first:
+      213: -2369597457433935544
+    second: Sprite sheet Luna walk_47
+  - first:
+      213: 1975522032980079084
+    second: Sprite sheet Luna walk_48
+  - first:
+      213: 1805782650048990934
+    second: Sprite sheet Luna walk_49
+  - first:
+      213: 2998016137957330944
+    second: Sprite sheet Luna walk_50
+  - first:
+      213: -6917589786584544361
+    second: Sprite sheet Luna walk_51
+  - first:
+      213: 8702561441432770745
+    second: Sprite sheet Luna walk_52
+  - first:
+      213: 529679305514454782
+    second: Sprite sheet Luna walk_53
+  - first:
+      213: 4782988226541690336
+    second: Sprite sheet Luna walk_54
+  - first:
+      213: 5248513928323176712
+    second: Sprite sheet Luna walk_55
+  - first:
+      213: -2914266442259916312
+    second: Sprite sheet Luna walk_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 220
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_0
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 5021
+        width: 483
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cdd69aa7ae9ba50800000000000000
+      internalID: 6537514146654444627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_1
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 5031
+        width: 457
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad2972faf18a70c0800000000000000
+      internalID: -4577203156458852955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_2
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 5021
+        width: 418
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9702df419f324c920800000000000000
+      internalID: 3009570003696296057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_3
+      rect:
+        serializedVersion: 2
+        x: 3268
+        y: 5010
+        width: 430
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb6a7ce77d8d3720800000000000000
+      internalID: 2827571687266610140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_4
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 5010
+        width: 440
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f25cfc8ec9b75b50800000000000000
+      internalID: 6581933677205017336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_5
+      rect:
+        serializedVersion: 2
+        x: 5234
+        y: 5010
+        width: 462
+        height: 967
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd951df46a85f6c60800000000000000
+      internalID: 7813561349838035423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_6
+      rect:
+        serializedVersion: 2
+        x: 6229
+        y: 5017
+        width: 477
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e6178dc8e180af0800000000000000
+      internalID: -430060174138315131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_7
+      rect:
+        serializedVersion: 2
+        x: 7221
+        y: 5026
+        width: 477
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ee8e621b84d6aa0800000000000000
+      internalID: -6166192389101130233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_8
+      rect:
+        serializedVersion: 2
+        x: 8237
+        y: 5015
+        width: 461
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea85ec06c75762a10800000000000000
+      internalID: 1884322671161661614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_9
+      rect:
+        serializedVersion: 2
+        x: 9279
+        y: 5010
+        width: 418
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f270c72aa356d0800000000000000
+      internalID: -3002869438816783876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_10
+      rect:
+        serializedVersion: 2
+        x: 10278
+        y: 5005
+        width: 424
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03bf83cef3926600800000000000000
+      internalID: 460092834357162766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4011
+        width: 499
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d96f2b429f113f0800000000000000
+      internalID: -931689711872336503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_12
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 4019
+        width: 483
+        height: 964
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f332024e55d2930800000000000000
+      internalID: 4120043672393957127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_13
+      rect:
+        serializedVersion: 2
+        x: 2254
+        y: 4032
+        width: 461
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddf8f2377a0ded80800000000000000
+      internalID: -8219902237808722471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_14
+      rect:
+        serializedVersion: 2
+        x: 3284
+        y: 4022
+        width: 414
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5267112c8cc71760800000000000000
+      internalID: 7428631012593590874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_15
+      rect:
+        serializedVersion: 2
+        x: 4269
+        y: 4006
+        width: 428
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7553847f66adf64e0800000000000000
+      internalID: -1986128774876875433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_16
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 4011
+        width: 440
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9f5c49f75c4ec00800000000000000
+      internalID: 929084574892685789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_17
+      rect:
+        serializedVersion: 2
+        x: 6233
+        y: 4011
+        width: 462
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e600503c79a9940800000000000000
+      internalID: 5303718375040511549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_18
+      rect:
+        serializedVersion: 2
+        x: 7232
+        y: 4016
+        width: 473
+        height: 967
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80590edb7b20c8030800000000000000
+      internalID: 3498173998747915528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_19
+      rect:
+        serializedVersion: 2
+        x: 8221
+        y: 4027
+        width: 477
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9dace6c6102b210800000000000000
+      internalID: 1347140803764083159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_20
+      rect:
+        serializedVersion: 2
+        x: 9236
+        y: 4016
+        width: 461
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699aa66046da7a9e0800000000000000
+      internalID: -1610127696645674602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_21
+      rect:
+        serializedVersion: 2
+        x: 10281
+        y: 4008
+        width: 415
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d398b084cd8b3f0800000000000000
+      internalID: -884715124789002910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_22
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 3006
+        width: 424
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375afb2ce3730c2e0800000000000000
+      internalID: -2107623882914552461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_23
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 3011
+        width: 499
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16600892d0bdda050800000000000000
+      internalID: 5813543543582492257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_24
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 3017
+        width: 483
+        height: 967
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d376e11a70d8560800000000000000
+      internalID: 7317513358128135534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_25
+      rect:
+        serializedVersion: 2
+        x: 3258
+        y: 3033
+        width: 456
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61610d647b8b4d9c0800000000000000
+      internalID: -3903291879716809194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_26
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 3022
+        width: 413
+        height: 924
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174392cc24ecc6750800000000000000
+      internalID: 6299636765072897137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_27
+      rect:
+        serializedVersion: 2
+        x: 5272
+        y: 3006
+        width: 424
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c84f2a953880e60800000000000000
+      internalID: 7928731564995021970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_28
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 3011
+        width: 440
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9749d5301b1b560800000000000000
+      internalID: 7327832696721537470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_29
+      rect:
+        serializedVersion: 2
+        x: 7232
+        y: 3011
+        width: 462
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fda081f48ba91f80800000000000000
+      internalID: -8135282664392315399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_30
+      rect:
+        serializedVersion: 2
+        x: 8231
+        y: 3017
+        width: 473
+        height: 967
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510754a3f55150470800000000000000
+      internalID: 8360111782026899477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_31
+      rect:
+        serializedVersion: 2
+        x: 9220
+        y: 3028
+        width: 477
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc1759f0d7d60ea0800000000000000
+      internalID: -5906796568713421612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_32
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 3017
+        width: 457
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc83c1f8fac84f90800000000000000
+      internalID: -6969097252799017738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_33
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2007
+        width: 414
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7676eab6338822450800000000000000
+      internalID: 6062557802825410407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_34
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 2007
+        width: 424
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6681dbba88c9330800000000000000
+      internalID: 3718997663494465246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_35
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 2012
+        width: 499
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef23e7a45b6b510800000000000000
+      internalID: 1564637252107304587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_36
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 2018
+        width: 483
+        height: 966
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b120c9e6b85f970f0800000000000000
+      internalID: -1118593053219880421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_37
+      rect:
+        serializedVersion: 2
+        x: 4257
+        y: 2034
+        width: 456
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e60b40564b47c480800000000000000
+      internalID: -8879045374970755360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_38
+      rect:
+        serializedVersion: 2
+        x: 5284
+        y: 2023
+        width: 412
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc609c0c1d5d0e50800000000000000
+      internalID: 6777175389313723569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_39
+      rect:
+        serializedVersion: 2
+        x: 6271
+        y: 2007
+        width: 424
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae01649783f2ebdb0800000000000000
+      internalID: -4774326635366838038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_40
+      rect:
+        serializedVersion: 2
+        x: 7255
+        y: 2007
+        width: 439
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cac1405461d8380800000000000000
+      internalID: -8967486797347247064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_41
+      rect:
+        serializedVersion: 2
+        x: 8237
+        y: 2008
+        width: 456
+        height: 965
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62ee8032393f0f50800000000000000
+      internalID: 6849756445979632239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_42
+      rect:
+        serializedVersion: 2
+        x: 9230
+        y: 2018
+        width: 473
+        height: 966
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c596e3322fd3f5fa0800000000000000
+      internalID: -5809856884101977764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_43
+      rect:
+        serializedVersion: 2
+        x: 10224
+        y: 2030
+        width: 473
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d03062bc70bb870800000000000000
+      internalID: 8699555674293734719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_44
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1018
+        width: 457
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e22b5d2e7991750800000000000000
+      internalID: 6276214556221124188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_45
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1007
+        width: 414
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b944ec9fefc5b10800000000000000
+      internalID: 1971731085742349210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_46
+      rect:
+        serializedVersion: 2
+        x: 2275
+        y: 1002
+        width: 429
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fb26e8fdec11470800000000000000
+      internalID: 8363693442565586730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_47
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 1008
+        width: 499
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8414bf8caaf7d1fd0800000000000000
+      internalID: -2369597457433935544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_48
+      rect:
+        serializedVersion: 2
+        x: 4278
+        y: 1018
+        width: 488
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce13cbd72d67a6b10800000000000000
+      internalID: 1975522032980079084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_49
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 1034
+        width: 456
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6decbb5b0cd6f0910800000000000000
+      internalID: 1805782650048990934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_50
+      rect:
+        serializedVersion: 2
+        x: 6287
+        y: 1024
+        width: 408
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000d5d51bc71b9920800000000000000
+      internalID: 2998016137957330944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_51
+      rect:
+        serializedVersion: 2
+        x: 7270
+        y: 1007
+        width: 428
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b02c47db8cfff90800000000000000
+      internalID: -6917589786584544361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_52
+      rect:
+        serializedVersion: 2
+        x: 8258
+        y: 1007
+        width: 437
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b89c98d585b5c870800000000000000
+      internalID: 8702561441432770745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_53
+      rect:
+        serializedVersion: 2
+        x: 9236
+        y: 1007
+        width: 458
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe8012a58cc95700800000000000000
+      internalID: 529679305514454782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_54
+      rect:
+        serializedVersion: 2
+        x: 10229
+        y: 1018
+        width: 473
+        height: 962
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed94ef5376906240800000000000000
+      internalID: 4782988226541690336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_55
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 30
+        width: 473
+        height: 945
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80994682c9776d840800000000000000
+      internalID: 5248513928323176712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite sheet Luna walk_56
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 19
+        width: 461
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e991487c127e87d0800000000000000
+      internalID: -2914266442259916312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sprite sheet Luna walk_1: -4577203156458852955
+      Sprite sheet Luna walk_45: 1971731085742349210
+      Sprite sheet Luna walk_10: 460092834357162766
+      Sprite sheet Luna walk_50: 2998016137957330944
+      Sprite sheet Luna walk_11: -931689711872336503
+      Sprite sheet Luna walk_46: 8363693442565586730
+      Sprite sheet Luna walk_13: -8219902237808722471
+      Sprite sheet Luna walk_7: -6166192389101130233
+      Sprite sheet Luna walk_33: 6062557802825410407
+      Sprite sheet Luna walk_38: 6777175389313723569
+      Sprite sheet Luna walk_22: -2107623882914552461
+      Sprite sheet Luna walk_16: 929084574892685789
+      Sprite sheet Luna walk_24: 7317513358128135534
+      Sprite sheet Luna walk_12: 4120043672393957127
+      Sprite sheet Luna walk_39: -4774326635366838038
+      Sprite sheet Luna walk_3: 2827571687266610140
+      Sprite sheet Luna walk_49: 1805782650048990934
+      Sprite sheet Luna walk_54: 4782988226541690336
+      Sprite sheet Luna walk_31: -5906796568713421612
+      Sprite sheet Luna walk_2: 3009570003696296057
+      Sprite sheet Luna walk_47: -2369597457433935544
+      Sprite sheet Luna walk_35: 1564637252107304587
+      Sprite sheet Luna walk_5: 7813561349838035423
+      Sprite sheet Luna walk_43: 8699555674293734719
+      Sprite sheet Luna walk_48: 1975522032980079084
+      Sprite sheet Luna walk_26: 6299636765072897137
+      Sprite sheet Luna walk_20: -1610127696645674602
+      Sprite sheet Luna walk_34: 3718997663494465246
+      Sprite sheet Luna walk_4: 6581933677205017336
+      Sprite sheet Luna walk_23: 5813543543582492257
+      Sprite sheet Luna walk_52: 8702561441432770745
+      Sprite sheet Luna walk_36: -1118593053219880421
+      Sprite sheet Luna walk_27: 7928731564995021970
+      Sprite sheet Luna walk_32: -6969097252799017738
+      Sprite sheet Luna walk_18: 3498173998747915528
+      Sprite sheet Luna walk_9: -3002869438816783876
+      Sprite sheet Luna walk_21: -884715124789002910
+      Sprite sheet Luna walk_44: 6276214556221124188
+      Sprite sheet Luna walk_6: -430060174138315131
+      Sprite sheet Luna walk_14: 7428631012593590874
+      Sprite sheet Luna walk_0: 6537514146654444627
+      Sprite sheet Luna walk_28: 7327832696721537470
+      Sprite sheet Luna walk_8: 1884322671161661614
+      Sprite sheet Luna walk_15: -1986128774876875433
+      Sprite sheet Luna walk_30: 8360111782026899477
+      Sprite sheet Luna walk_56: -2914266442259916312
+      Sprite sheet Luna walk_17: 5303718375040511549
+      Sprite sheet Luna walk_51: -6917589786584544361
+      Sprite sheet Luna walk_41: 6849756445979632239
+      Sprite sheet Luna walk_53: 529679305514454782
+      Sprite sheet Luna walk_55: 5248513928323176712
+      Sprite sheet Luna walk_19: 1347140803764083159
+      Sprite sheet Luna walk_25: -3903291879716809194
+      Sprite sheet Luna walk_40: -8967486797347247064
+      Sprite sheet Luna walk_37: -8879045374970755360
+      Sprite sheet Luna walk_42: -5809856884101977764
+      Sprite sheet Luna walk_29: -8135282664392315399
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
