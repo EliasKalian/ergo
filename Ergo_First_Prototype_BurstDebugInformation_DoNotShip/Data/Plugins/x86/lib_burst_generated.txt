@@ -1,7 +1,7 @@
 Library: lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-11
---target=X64_SSE2
+--target=X86_SSE2
 --global-safety-checks-setting=Off
 --dump=Function
 --float-precision=Standard
@@ -32,8 +32,6 @@ Library: lib_burst_generated
 --compilation-defines=UNITY_2021_1_OR_NEWER
 --compilation-defines=UNITY_2021_2_OR_NEWER
 --compilation-defines=UNITY_2021_3_OR_NEWER
---compilation-defines=PLATFORM_ARCH_64
---compilation-defines=UNITY_64
 --compilation-defines=ENABLE_AR
 --compilation-defines=ENABLE_AUDIO
 --compilation-defines=ENABLE_CACHING
@@ -125,9 +123,9 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_ANIMATION_BURST
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --compilation-defines=ENABLE_SPRITESHAPE_BURST
---linker-options=PdbAltPath="Ergo_First_Prototype_Data/Plugins/x86_64"
+--linker-options=PdbAltPath="Ergo_First_Prototype_Data/Plugins/x86"
 --generate-link-xml=Temp\burst.link.xml
---output=C:\Users\elias\Downloads\Ergo_First_Prototype\Ergo_First_Prototype\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--output=C:\Users\elias\Downloads\Ergo_First_Prototype\Ergo_First_Prototype\Temp\StagingArea\Data\Plugins\x86\lib_burst_generated
 --root-assembly=C:\Users\elias\Downloads\Ergo_First_Prototype\Ergo_First_Prototype\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
 --root-assembly=C:\Users\elias\Downloads\Ergo_First_Prototype\Ergo_First_Prototype\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Flow.dll
 --root-assembly=C:\Users\elias\Downloads\Ergo_First_Prototype\Ergo_First_Prototype\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
@@ -166,7 +164,7 @@ Library: lib_burst_generated
 --method=Unity.Jobs.IJobExtensions+JobStruct`1[[UnityEngine.U2D.SpriteShapeGenerator, Unity.2D.SpriteShape.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.U2D.SpriteShapeGenerator&, Unity.2D.SpriteShape.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--a185c62eba2497c95197140e5282b27a
 --platform=Windows
 --backend=burst-llvm-11
---target=AVX2
+--target=X86_SSE4
 --global-safety-checks-setting=Off
 --dump=Function
 --float-precision=Standard
@@ -197,8 +195,6 @@ Library: lib_burst_generated
 --compilation-defines=UNITY_2021_1_OR_NEWER
 --compilation-defines=UNITY_2021_2_OR_NEWER
 --compilation-defines=UNITY_2021_3_OR_NEWER
---compilation-defines=PLATFORM_ARCH_64
---compilation-defines=UNITY_64
 --compilation-defines=ENABLE_AR
 --compilation-defines=ENABLE_AUDIO
 --compilation-defines=ENABLE_CACHING
@@ -290,9 +286,9 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_ANIMATION_BURST
 --compilation-defines=TIMELINE_FRAMEACCURATE
 --compilation-defines=ENABLE_SPRITESHAPE_BURST
---linker-options=PdbAltPath="Ergo_First_Prototype_Data/Plugins/x86_64"
+--linker-options=PdbAltPath="Ergo_First_Prototype_Data/Plugins/x86"
 --generate-link-xml=Temp\burst.link.xml
---output=C:\Users\elias\Downloads\Ergo_First_Prototype\Ergo_First_Prototype\Temp\StagingArea\Data\Plugins\x86_64\lib_burst_generated
+--output=C:\Users\elias\Downloads\Ergo_First_Prototype\Ergo_First_Prototype\Temp\StagingArea\Data\Plugins\x86\lib_burst_generated
 --root-assembly=C:\Users\elias\Downloads\Ergo_First_Prototype\Ergo_First_Prototype\Temp\StagingArea\Data\Managed\UnityEngine.UI.dll
 --root-assembly=C:\Users\elias\Downloads\Ergo_First_Prototype\Ergo_First_Prototype\Temp\StagingArea\Data\Managed\Unity.VisualScripting.Flow.dll
 --root-assembly=C:\Users\elias\Downloads\Ergo_First_Prototype\Ergo_First_Prototype\Temp\StagingArea\Data\Managed\Unity.Mathematics.dll
